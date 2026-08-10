@@ -46,8 +46,6 @@ Repo id: `4.45-tft-480x854-mipi-gc9503`
 
 <p align="center"><img alt="YDP445B001-V1" src="./images/YDP445B001-V1.png" width="320" /></p>
 
-**Notes:** Module.
-
 ---
 
 ## How to Switch Branches
