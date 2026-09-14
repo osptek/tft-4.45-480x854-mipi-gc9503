@@ -31,7 +31,7 @@
 
 OSPTEK **4.45″ 480×854 TFT / IPS** is a **MIPI** color display module driven by **GC9503CV**. Suited to handheld terminals, portrait instruments, and compact HMI.
 
-Spec ID (repository name): `4.45-tft-480x854-mipi-gc9503`
+Spec ID (repository name): `tft-4.45-480x854-mipi-gc9503`
 
 Current module version: **YDP445B001-V1**. Electrical and mechanical details follow [`docs/YDP445B001-V1.pdf`](./docs/YDP445B001-V1.pdf).
 
@@ -56,7 +56,7 @@ Current module version: **YDP445B001-V1**. Electrical and mechanical details fol
 ## Repository layout
 
 ```text
-4.45-tft-480x854-mipi-gc9503/                                # repo root (nav: ../../README_EN.md)
+tft-4.45-480x854-mipi-gc9503/                                # repo root (nav: ../../README_EN.md)
 └── versions/
     └── YDP445B001-V1/                                # full materials for this part number
         ├── README.md
