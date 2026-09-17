@@ -1,0 +1,14 @@
+id: tft-4.45-480x854-mipi-gc9503
+category: displays
+
+size: "4.45"
+panel: tft
+resolution: 480x854
+interface: [mipi]
+shape: rect
+
+versions:
+  - id: YDP445B001-V1
+    driver: GC9503CV
+    touch: none
+    note: none
